@@ -48,7 +48,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="App_content">
       <header className="App-header">
 
         <h1> Testing react </h1>
