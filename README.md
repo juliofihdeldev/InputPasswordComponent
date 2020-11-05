@@ -2,7 +2,7 @@
 
 
 [![codecov](https://codecov.io/gh/juliofihdeldev/ReactTesting/branch/master/graph/badge.svg)](https://codecov.io/gh/juliofihdeldev/ReactTesting)
-
+![CI/CD REACT js Application](https://github.com/juliofihdeldev/ReactTesting/workflows/CI/CD%20REACT%20js%20Application/badge.svg?branch=main)
 ## Available Scripts
 
 In the project directory, you can run:
