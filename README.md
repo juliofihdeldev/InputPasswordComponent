@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/juliofihdeldev/ReactTesting/workflows/CI/CD%20REACT%20js%20Application/badge.svg
+[![codecov](https://codecov.io/gh/juliofihdeldev/ReactTesting/branch/master/graph/badge.svg)](https://codecov.io/gh/juliofihdeldev/ReactTesting)
 
 ## Available Scripts
 
