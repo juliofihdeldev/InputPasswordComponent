@@ -1,10 +1,10 @@
-name: CI/CD REACT js Application 
+name: InputPasswordComponent
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -44,7 +44,7 @@ jobs:
       run: |
         git config --global user.name $user_name
         git config --global user.email $user_email
-        git remote set-url origin https://${github_token}@github.com/${repository}
+        git remote set-url origin https://${github_token}@github.com/${InputPasswordComponent}
         npm run deploy
       env:
         user_name: 'github-actions[bot]'
